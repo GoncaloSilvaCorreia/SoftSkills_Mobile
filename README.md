@@ -1,4 +1,4 @@
-# pint_mobile
+# SoftSkills - Mobile
 
 Projeto desenvolvido para as cadeiras de Projeto Integrado e Programação para Dispositivos Moveis.
 
